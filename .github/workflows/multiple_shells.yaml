@@ -1,4 +1,4 @@
-name: Multiple shells commandss
+name: Multiple shells commands
 on:
   push:
     branches:
